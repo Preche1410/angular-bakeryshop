@@ -1,5 +1,4 @@
 # angular-bakeryshop
 # Run
-npm install
-ng serve || npm start
+npm install # ng serve || npm start
 
